@@ -1,26 +1,32 @@
 ---
-title: Accueil
+title: Summary
 ---
 
-# Le KoomBook
+# Summary
 
-Le KoomBook est un appareil fonctionnant sur batterie et diffusant des contenus vidéos, textes, images, cours en ligne, à l'aide d'un hotspot wifi.
+* [Introduction](README.md)
+* [Todo](todo.md)
+* [Liste des outils nécessaires](liste_du_materiel_necessaire.md)
+* [Les composants du KoomBook](chapter1.md)
+* [Recommendation avant assemblage](recommendation_avant_assemblage.md)
+* [Assemblage](assemblage.md)
+   * [Fixer le disque dur](monter_le_disque_dur.md)
+   * [Fixer 4 entretoises sur la platine F1](fixer_4_entretoises_sur_le_double_fond.md)
+   * [Fixer 4 entretoises sur la platine F2](fixer_4_entretoises_sur_la_platine_f2.md)
+   * [Fixer 2 entretoises sur la platine F2](fixer_2_entretoises_sur_la_platine_f2.md)
+   * [Fixer la platine F2 sur la platine F1](fixer_la_platine_f2_sur_la_platine_f1.md)
+   * [Connecter les câbles SATA et d'alimentation au disque dur](connecter_les_cables_sata_et_dalimentation_au_disq.md)
+   * [Coller le dissipateur de chaleur sur le processeur](coller_le_dissipateur_de_chaleur_sur_le_processeur.md)
+   * [Etamer vos câbles électriques](etamer_vos_cables_electriques.md)
+   * [Souder 1 fil sur la carte Olimex](souder_2_fils_de_la_led_linterrupteur_sur_la_carte.md)
+   * [Souder 2 fils de l'interrupteur sur la carte Olimex](souder_2_fils_de_linterrupteur_sur_la_carte_olimex.md)
+   * [Fixer la carte Olimex sur la platine F2](fixer_la_carte_olimex_sur_la_platine_f2.md)
+   * [Connecter les câbles SATA et d'alimentation à la carte Olimex](connecter_les_cables_sata_et_dalimentation_a_la_ca.md)
+   * [Monter l'interrupteur sur la face avant du boitier](monter_linterrupteur_sur_la_face_avant_du_boitier.md)
+   * [Souder l'interrupteur](souder_linterrupteur.md)
+   * [Souder la prise micro USB](monter_la_prise_micro_usb_et_la_prise_reseau_sur_l.md)
+   * [Monter la façe arrière du boitier](monterla_face_arriere_md.md)
+   * [Assemblage des façades ](assemblage_du_boitier_et_positionnement_de_la_batt.md)
+   * [Connecter les cables](connecter_les_cables.md)
+   * [Finalisation de l'assemblage](finalisation_de_lassemblage.md)
 
-Une interface web intégrée permet à quiconque possédant un ordinateur, une tablette ou un smartphone de s'y connecter et de naviguer à travers les contenus disponible.
-
-Cet outil permet à des populations ne disposant d'aucune connexion Internet d'accéder malgré tout à des ressources numériques. Il a par exemple été déployé en Côte d'Ivoire, au Cameroun, au Sénégal, etc.
-
-[Les ressources numériques installées sur le Koombook](https://github.com/ideascube/ansiblecube) sont issues de projets libres \(wikipedia, kan academy, etc.\) et présentées par un logiciel libre lui aussi, [ideascube](https://github.com/ideascube/ideascube). 
-
-L'objectif de cette documentation est de présenter étape par étape l'assemblage d'un KoomBook
-
-![](../assets/_MG_5345.JPG)
-![](../assets/_MG_5328.JPG)
-
-### Auteur
-
-{% for author in book.authors %}
-  {{ author.name }} 
-{% endfor %}
-
-Dernière modification : {{file.mtime}}
