@@ -4,10 +4,10 @@
 
 * Via le réseau **Ethernet**
 
-![](../assets/ethernet.png)
+![](ethernet.png)
 * Via le réseau **wifi** : Voir "[Gestion du wifi](https://bsf.gitbooks.io/manuel-ideascube/content/fr/gestion_du_wifi.html)" pour plus d'informations 
 
-![](../assets/signewifi.png)
+![](signewifi.png)
 
 **Privilégiez la mise à jour par réseau Ethernet**, plus sûr, plus stable, avec un meilleur débit.
 
