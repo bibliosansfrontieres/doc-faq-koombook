@@ -1,4 +1,18 @@
-#Comment connaître le taux de charge de mon koombook?
+---
+title: 'Comment connaître le taux de charge de mon koombook?'
+date: '02-05-2018 12:33'
+publish_date: '02-05-2018 12:33'
+taxonomy:
+    category:
+        - 'Fonctionnement sur batterie'
+    tag:
+        - batterie
+        - rechargement
+    author:
+        - Florian
+---
+
+# Comment connaître le taux de charge de mon koombook?
 
 Vous pouvez contrôler l'état et la charge de la batterie depuis la zone d'administration d'IdeasCube. 
 
