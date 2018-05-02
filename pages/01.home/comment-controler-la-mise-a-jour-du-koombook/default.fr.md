@@ -1,3 +1,14 @@
+---
+title: 'Comment contrôler la mise à jour du KoomBook ?'
+date: '02-05-2018 12:36'
+publish_date: '02-05-2018 12:36'
+taxonomy:
+    category:
+        - 'Mise à jour'
+    author:
+        - Florian
+---
+
 # Comment contrôler la mise à jour du KoomBook ?
 
 La dernière génération de KoomBook (bouton d'allumage équipé d'une LED blanche) indique à l'utilisateur l'état de la mise à jour.
