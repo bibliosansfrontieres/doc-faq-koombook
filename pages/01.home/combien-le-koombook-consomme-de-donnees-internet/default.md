@@ -4,6 +4,8 @@ publish_date: '02-05-2018 10:48'
 taxonomy:
     category:
         - KoomBook
+    tag:
+        - conso
     author:
         - Florian
 0: 'Combien le KoomBook consomme de données Internet ?'
