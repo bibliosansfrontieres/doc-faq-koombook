@@ -1,19 +1,21 @@
 ---
-title: 'Combien le koombook consomme de donnees internet ?'
+title: 'Combien le koombook consomme de données internet ?'
+date: '02-05-2018 12:29'
 publish_date: '02-05-2018 10:48'
 taxonomy:
     category:
-        - KoomBook
+        - 'Mise à jour'
     tag:
-        - conso
+        - consommation
+        - données
     author:
         - Florian
 0: 'Combien le KoomBook consomme de données Internet ?'
 ---
 
-# Combien le koombook consomme de donnees internet ?
+# Combien le koombook consomme de données internet ?
 
-Lorsque le KoomBook est connecté à Internet via un [câble Ethernet ou via le wifi](comment-mettre-a-jour-le-koombook.md) ce dernier va interroger le [serveur de dépot de fichiers](https://githu
+Lorsque le KoomBook est connecté à Internet via un [câble Ethernet ou via le wifi](comment-mettre-a-jour-le-koombook) ce dernier va interroger le [serveur de dépot de fichiers](https://githu
 b.com/ideascube/ansiblecube/tree/oneUpdateFile) de Bibliothèque Sans Frontières, si ce dernier contient des mises à jour, celles-ci seront appliquées sur le KoomBook. 
 
 * Il peut s'agir de mise à jour de logiciels liées aux système d'exploitation linux (cela peut varier de quelques centaines de Ko à quelques dizaine de Mo.)
