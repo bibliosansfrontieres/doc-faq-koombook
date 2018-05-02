@@ -35,4 +35,4 @@ Connectez simplement le câble USB sur le chargeur USB et l'autre extrémité su
 
 ## Avec un panneau solaire et sa batterie
 
-Référez vous à la page [Le KoomBook peut-il fonctionner à l'aide d'un kit solaire ?](le-koombook-peut-il-fonctionner-a-laide-dun-kit-solaire/default.md) pour plus d'informations
+Référez vous à la page [Le KoomBook peut-il fonctionner à l'aide d'un kit solaire ?](../le-koombook-peut-il-fonctionner-a-laide-dun-kit-solaire) pour plus d'informations
