@@ -1,3 +1,14 @@
+---
+title: 'Quelle est la porté du wifi ? '
+date: '02-05-2018 12:42'
+publish_date: '02-05-2018 12:42'
+taxonomy:
+    category:
+        - wifi
+    author:
+        - Florian
+---
+
 # Quelle est la porté du wifi ? 
 
 La portée du point d'accès wifi varie en fonction de l'environnement présent autour de l'appareil, dans le meilleur des cas une centaine de mètre dans le pire des cas une dizaine. 
