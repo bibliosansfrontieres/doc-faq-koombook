@@ -1,4 +1,15 @@
-#Peut-on intégrer le KoomBook dans un réseau local existant ?
+---
+title: 'Peut-on intégrer le KoomBook dans un réseau local existant ?'
+date: '02-05-2018 12:41'
+publish_date: '02-05-2018 12:41'
+taxonomy:
+    category:
+        - 'Configuration réseaux'
+    author:
+        - Florian
+---
+
+# Peut-on intégrer le KoomBook dans un réseau local existant ?
 
 Si la structure recevant le KoomBook dispose de son propre réseau local (filaire et wifi) avec différents appareils connectés à ce dernier, il peut être intéressant d'intégrer le KoomBook à cet écosystème. Cela permet en effet, à partir de n'importe quelle machine du réseau de joindre le site http://koombook.lan
 
