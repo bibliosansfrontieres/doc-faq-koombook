@@ -1,3 +1,13 @@
+---
+date: '02-05-2018 11:34'
+publish_date: '02-05-2018 11:33'
+taxonomy:
+    category:
+        - 'Mise à jour'
+    author:
+        - Florian
+---
+
 # A quelle fréquente doit-on connecter le koombook à internet ?
 
 La connexion du KoomBook à Internet permet de :

@@ -17,14 +17,14 @@ Dans certains cas vous pouvez être amené à utiliser un kit solaire comprenant
 
 ### Kit solaire 20w et sa batterie de 8Ah
 
-![](../assets/chargeur-solaire-appareil-photo-video.jpg)  
-![](../assets/chargeur-solaire-appareil-photo-video2.jpg)
+![](chargeur-solaire-appareil-photo-video.jpg)  
+![](chargeur-solaire-appareil-photo-video2.jpg)
 
 ### Kit solaire 65w et sa batterie de 50Ah
 
-![](../assets/chargeur-solaire-ordinateur.jpg)
+![](chargeur-solaire-ordinateur.jpg)
 
-![](../assets/chargeur-solaire-ordinateur2.jpg)
+![](chargeur-solaire-ordinateur2.jpg)
 
-![](../assets/chargeur-solaire-ordinateur3.jpg)
+![](chargeur-solaire-ordinateur3.jpg)
 
