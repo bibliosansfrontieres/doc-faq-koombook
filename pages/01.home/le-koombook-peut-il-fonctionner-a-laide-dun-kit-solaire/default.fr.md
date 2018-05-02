@@ -1,5 +1,16 @@
 ---
 title: 'Le KoomBook peut-il fonctionner à l''aide d''un kit solaire ?'
+date: '02-05-2018 12:38'
+publish_date: '02-05-2018 12:38'
+taxonomy:
+    category:
+        - 'Kit solaire'
+    tag:
+        - solaire
+        - batterie
+        - rechargement
+    author:
+        - Florian
 ---
 
 # Le KoomBook peut-il fonctionner à l'aide d'un kit solaire ?
