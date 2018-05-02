@@ -1,3 +1,14 @@
+---
+title: 'Comment allumer le KoomBook ?'
+date: '02-05-2018 12:31'
+publish_date: '02-05-2018 12:31'
+taxonomy:
+    category:
+        - 'Opération de bases'
+    author:
+        - Florian
+---
+
 # Comment allumer le KoomBook ?
 
 ![](IMG_3447.JPG)
