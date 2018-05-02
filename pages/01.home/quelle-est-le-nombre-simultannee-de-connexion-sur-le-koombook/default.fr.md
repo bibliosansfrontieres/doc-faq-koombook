@@ -1,3 +1,14 @@
+---
+title: 'Combien de personnes peuvent se connecter sur le point d''accès wifi ?'
+date: '02-05-2018 12:42'
+publish_date: '02-05-2018 12:42'
+taxonomy:
+    category:
+        - wifi
+    author:
+        - Florian
+---
+
 # Combien de personnes peuvent se connecter sur le point d'accès wifi ?
 
 Aujourd'hui le point d'accès supporte **une dizaine de connexions simultanées**.
