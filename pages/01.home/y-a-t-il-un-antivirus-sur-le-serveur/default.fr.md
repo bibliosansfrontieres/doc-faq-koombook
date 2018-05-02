@@ -1,3 +1,14 @@
+---
+title: 'Y a t-il un antivirus sur le KoomBook ?'
+date: '02-05-2018 12:43'
+publish_date: '02-05-2018 12:43'
+taxonomy:
+    category:
+        - 'Sécurité informatique'
+    author:
+        - Florian
+---
+
 # Y a t-il un antivirus sur le KoomBook ?
 
 Aucun antivirus n'est installé sur l'appareil, il y a peu de chance que le système linux soit inffecté par un virus. 
