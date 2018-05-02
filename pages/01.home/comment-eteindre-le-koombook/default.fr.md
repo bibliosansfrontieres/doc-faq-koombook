@@ -1,3 +1,14 @@
+---
+title: 'Comment éteindre le KoomBook ? '
+date: '02-05-2018 12:36'
+publish_date: '02-05-2018 12:36'
+taxonomy:
+    category:
+        - 'Opération de bases'
+    author:
+        - Florian
+---
+
 # Comment éteindre le KoomBook ? 
 
 ![](IMG_3447.JPG)
