@@ -13,8 +13,6 @@ taxonomy:
         - Florian
 ---
 
-# Le KoomBook peut-il fonctionner à l'aide d'un kit solaire ?
-
 Dans certains cas vous pouvez être amené à utiliser un kit solaire comprenant un panneau solaire et une batterie
 
 |  | Kit 20w | Kit 65w |

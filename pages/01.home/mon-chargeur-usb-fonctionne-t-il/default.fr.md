@@ -9,8 +9,6 @@ taxonomy:
         - Florian
 ---
 
-# Mon chargeur USB fonctionne t-il ?
-
 ![](PW03053-40.jpg)
 
 [Le chargeur USB \(5V, 2A\)](http://fr.farnell.com/pro-power/mwusb3u-black/alimentation-usb-5v-2-1a-blk-euro/dp/2289559?MER=BN-2289559) fournit avec le KoomBook permet d'alimenter l'appareil de manière optimal.

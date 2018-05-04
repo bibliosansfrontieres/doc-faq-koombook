@@ -9,8 +9,6 @@ taxonomy:
         - Florian
 ---
 
-# Comment connecter le KoomBook à Internet ? 
-
 **Vous pouvez donc le connecter de deux manières différentes : **
 
 * Via le réseau **Ethernet**

@@ -9,8 +9,6 @@ taxonomy:
         - Florian
 ---
 
-# Comment éteindre le KoomBook ? 
-
 ![](IMG_3447.JPG)
 
 ### Deux versions du KoomBook co-existent actuellement

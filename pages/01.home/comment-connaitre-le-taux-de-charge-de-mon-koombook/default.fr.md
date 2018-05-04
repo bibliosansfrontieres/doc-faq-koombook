@@ -12,8 +12,6 @@ taxonomy:
         - Florian
 ---
 
-# Comment connaître le taux de charge de mon koombook?
-
 Vous pouvez contrôler l'état et la charge de la batterie depuis la zone d'administration d'IdeasCube. 
 
 Connectez-vous à l'aide de votre identifiant et mode passe : 
