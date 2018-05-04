@@ -9,8 +9,6 @@ taxonomy:
         - Florian
 ---
 
-# Comment recharger la batterie du KoomBook ?
-
 ## Avec le chargeur USB 220/110V -&gt; 5V
 
 Le KoomBook se recharge à l'aide d'un chargeur USB 5V / 2A. Celui fournit avec le KoomBook correspond à cela

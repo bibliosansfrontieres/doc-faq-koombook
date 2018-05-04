@@ -9,8 +9,6 @@ taxonomy:
         - Florian
 ---
 
-# A quelle fréquence doit-on connecter le koombook à internet ?
-
 La connexion du KoomBook à Internet permet de :
 * Mettre à jour le système et les applications du système (correction de bug et amélioration logiciel essentiellement)
   - Fréquence de mise à jour : Toutes les semaines

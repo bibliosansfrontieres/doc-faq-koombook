@@ -9,7 +9,6 @@ taxonomy:
         - Florian
 ---
 
-# Comment mettre à jour le KoomBook ?
 
 Le KoomBook se met à jour automatiquement, sans intervention de votre part à partir du moment où ce dernier est connecté à Internet.
 
