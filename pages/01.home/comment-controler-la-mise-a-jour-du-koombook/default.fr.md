@@ -9,6 +9,8 @@ taxonomy:
         - Florian
 ---
 
+# Comment contrôler la mise à jour du KoomBook ?
+
 La dernière génération de KoomBook (bouton d'allumage équipé d'une LED blanche) indique à l'utilisateur l'état de la mise à jour.
 
 ## LED fixe

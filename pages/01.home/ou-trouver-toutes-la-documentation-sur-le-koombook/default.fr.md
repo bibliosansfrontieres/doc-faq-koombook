@@ -9,6 +9,8 @@ taxonomy:
         - Florian
 ---
 
+# Où trouver la documentation du KoomBook ?
+
 Beaucoup de choses ont déjà été écrites, un peu partout!
 
 Voici donc un recueil de tout ce qui existe à ce jour :

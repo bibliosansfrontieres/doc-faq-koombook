@@ -9,6 +9,8 @@ taxonomy:
         - Florian
 ---
 
+# Comment allumer le KoomBook ?
+
 ![](IMG_3447.JPG)
 
 Le **bouton poussoir** situé en façade commande l'allumage et l'extinction du KoomBook

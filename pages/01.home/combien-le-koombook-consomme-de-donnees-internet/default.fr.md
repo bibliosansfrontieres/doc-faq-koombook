@@ -13,6 +13,8 @@ taxonomy:
 0: 'Combien le KoomBook consomme de données Internet ?'
 ---
 
+# Combien le koombook consomme de données internet ?
+
 Lorsque le KoomBook est connecté à Internet via un [câble Ethernet ou via le wifi](comment-mettre-a-jour-le-koombook) ce dernier va interroger le [serveur de dépot de fichiers](https://githu
 b.com/ideascube/ansiblecube/tree/oneUpdateFile) de Bibliothèque Sans Frontières, si ce dernier contient des mises à jour, celles-ci seront appliquées sur le KoomBook. 
 
