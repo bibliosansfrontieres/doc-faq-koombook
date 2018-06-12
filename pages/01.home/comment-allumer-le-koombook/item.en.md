@@ -1,5 +1,5 @@
 ---
-title: 'How to turn on the KoomBook?'
+title: 'How do I turn on the KoomBook?'
 date: '02-05-2018 12:31'
 publish_date: '02-05-2018 12:31'
 taxonomy:
