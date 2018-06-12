@@ -1,5 +1,5 @@
 ---
-title: 'Comment allumer le KoomBook ?'
+title: 'How to turn on the KoomBook?'
 date: '02-05-2018 12:31'
 publish_date: '02-05-2018 12:31'
 taxonomy:
@@ -10,25 +10,23 @@ taxonomy:
 ---
 
 ![](IMG_3447.JPG)
+The **power button** located on the front of the KoomBook turns the device on and off.
+* Press twice to turn on
 
-Le **bouton poussoir** situé en façade commande l'allumage et l'extinction du KoomBook
+### Two versions of the KoomBook currently exist
 
-* Appuyer 2s pour l'allumer
+#### Blue Light
 
-### Deux versions du KoomBook co-existent actuellement
-
-#### Lumière bleu
-
-* Une version avec un bouton poussoir et une** lumière bleu**
-  * C'est la **premère génération** du KoomBook, équipé majoritairement de disque dur
-  * La lumière est bleu clignotante dès le démarrage de l'appareil 
+* One version has a power button and a **blue light**
+  * This is the **first generation** KoomBook, mainly equipped with a hard drive
+  * The blue light blinks once the KoomBook is turned on
   
-#### Lumière blanche
+#### White Light
 
-* Une version avec un bouton poussoir et une** lumière blanche**
-  * C'est la **seconde génération** du KoomBook, équipé majoritairement de disque SSD
-  * La lumière blanche est fixe les premières secondes, puis clignotante 
-  * Lorsque la lumière blanch est fixe, cela signifie que le KoomBook est en cours de mise à jour
+* The other version has a power button and a **white light** 
+  * This is the **second generation** KoomBook, mainly equipped with an SSD drive 
+  * The white light is constant for several seconds after being turned on, then blinks 
+  * When the KoomBook is updating, the white light remains constant
 
 
 
