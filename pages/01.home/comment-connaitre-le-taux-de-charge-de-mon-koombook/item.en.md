@@ -1,5 +1,5 @@
 ---
-title: 'Comment connaître le taux de charge de mon koombook?'
+title: 'How do I check the charge of my KoomBook?'
 date: '02-05-2018 12:33'
 publish_date: '02-05-2018 12:33'
 taxonomy:
@@ -12,15 +12,15 @@ taxonomy:
         - Florian
 ---
 
-Vous pouvez contrôler l'état et la charge de la batterie depuis la zone d'administration d'IdeasCube. 
+You can check the battery's charge in the administration area of IdeasCube.
 
-Connectez-vous à l'aide de votre identifiant et mode passe : 
+Connect using your username and password. 
 
-Lien **connexion** en haut à droite de la page
+Click **sign in** at the top right of the page
 ![](Capture%20du%202018-01-24%2011-15-31.png)
 
-Une fois connecté, rendez-vous sur la page d'accueil et cliquez sur le lien suivant 
+Once signed in, go to the homepage and select **manage settings**
 ![](Capture%20du%202018-01-24%2011-14-16.png)
 
-Une fois dans la zone d'administration, cliquez sur le lien **Contrôle de la batterie**
+From there, select **Contrôle de la batterie** (check battery)
 ![](Capture%20du%202018-01-24%2011-14-27.png)
