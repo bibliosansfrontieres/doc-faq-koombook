@@ -1,5 +1,5 @@
 ---
-title: 'Qui peut consulter les contenus postés par les utilisateurs du KoomBook ?'
+title: 'Who can see content posted by KoomBook users?'
 date: '02-05-2018 12:43'
 publish_date: '02-05-2018 12:43'
 taxonomy:
@@ -9,6 +9,6 @@ taxonomy:
         - Florian
 ---
 
-Tous les contenus postés dans le KoomBook, c'est à dire dans le Blog et le Media-center sont stockés localement. Aucun système de synchronisation ou de publication sur Internet existe aujourd'hui. 
+All the content posted in the KoomBook (in the Blog and the Media Center) is stored locally.  There is not currently a system to synchronize or publish this content to the internet.
 
-Par ailleurs aucun système de backup n'a été prévu à ce jour. Vos données enregistrées localement sur le KoomBook sont donc susceptibles d'être définitivement perdu si le KoomBook est perdu ou que le système de stockage (disque SSD) est trop endommagé pour envisager une récupération des fichiers.
+Furthermore, no system to backup the content exists or is currently expected.  Your locally-saved data is thus susceptible to being permanently lost if the KoomBook is lost or if the storage system (SSD disk) is harmed too badly to recuperate the files.
