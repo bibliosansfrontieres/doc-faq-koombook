@@ -1,5 +1,5 @@
 ---
-title: 'Comment contrôler la mise à jour du KoomBook ?'
+title: 'How can I check the status of an update?'
 date: '02-05-2018 12:36'
 publish_date: '02-05-2018 12:36'
 taxonomy:
@@ -9,19 +9,18 @@ taxonomy:
         - Florian
 ---
 
-La dernière génération de KoomBook (bouton d'allumage équipé d'une LED blanche) indique à l'utilisateur l'état de la mise à jour.
+The latest generation KoomBook (power button with a white LED light) indicates to the user the status of the update.
 
-## LED fixe
-**Le KoomBook est en phase de démarrage ou en cours de mise à jour. **
+## Solid LED Light
+**The KoomBook is in the process of turning on, or in the middle of an update**
 
-Lorsque le KoomBook est connecté à Internet via Ethernet ou Wifi ce dernier lance sa mise à jour 2 min après l'acquisition du réseau Internet, la LED devient ainsi fixe et ne clignote plus. A la fin de la mise à jour la LED redevient à nouveau clignotante.
+The KoomBook will begin to update two minutes after being connected to the internet, whether via Ethernet or WiFi.  Once the update has started, the LED light will become solid, and will not blink anymore.  Once the update is completed, the light will start blinking again.
 
-La durée de la mise à jour peut varier entre 15 min et plusieurs heures, tout dépend de la quantité de données à mettre à jour
+The update can take anywhere from 15 minutes to several hours, depending on the quantity of the size of the update.
 
-Durant l'opération de mise à jour, vous pouvez continuer à utiliser le KoomBook, cependant des ralentissements peuvent être observés, certains services pourront également être automatiquement redémarrés, enfin vous pourriez également perdre la connexion wifi au KoomBook pendant ce laps de temps, il est donc préférable de ne pas effectuer d'opérations importantes à ce moment là.
+During the update, you can continue to use the KoomBook.  However, you may notice slower speeds, and some services will be automatically restarted during the update.  The KoomBook's WiFi connection may also temporarily be lost.  Thus, we recommend you do not attempt to carry out important tasks while the KoomBook is updating.
 
-## LED clignotante
-**Le KoomBook fonctionne normalement**
+## Blinking LED Light
+**The KoomBook is functioning normally**
 
-Le KoomBook est dans son fonctionnement normal, aucune mise à jour n'est en cours, les utilisareurs peuvent se connecter au point d'accès wifi 
-
+The KoomBook is functioning normally, and no update is underway.  Users can connect to the KoomBook's WiFi.
