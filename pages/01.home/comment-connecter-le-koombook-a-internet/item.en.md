@@ -1,5 +1,5 @@
 ---
-title: 'Comment connecter le KoomBook à Internet ? '
+title: 'How can I connect the KoomBook to the internet?'
 date: '02-05-2018 12:35'
 publish_date: '02-05-2018 12:35'
 taxonomy:
@@ -9,17 +9,18 @@ taxonomy:
         - Florian
 ---
 
-**Vous pouvez donc le connecter de deux manières différentes : **
+**You can connect to the internet two different ways**
 
-* Via le réseau **Ethernet**
+* Via **Ethernet**
 
 ![](ethernet.png)
-* Via le réseau **wifi** : Voir "[Gestion du wifi](https://bsf.gitbooks.io/manuel-ideascube/content/fr/gestion_du_wifi.html)" pour plus d'informations 
+* Or via **WiFi**.  To connect using WiFi, see "[WiFi management](https://bsf.gitbooks.io/manuel-ideascube/content/fr/gestion_du_wifi.html)" for more information.
+
 
 ![](signewifi.png)
 
-**Privilégiez la mise à jour par réseau Ethernet**, plus sûr, plus stable, avec un meilleur débit.
+**We prefer updating using Ethernet**, which is more secure and stable, and has a higher output. 
 
-Il est fortement déconseillé de connecter le KoomBook en wifi au hotspot d'un smartphone, même si aucune mise à jour conséquente n'est prévue sur le KoomBook, votre forfait 3G de données pourrait être rapidement vidé car vous n'avez pas de contrôle sur les données transitant vers et depuis le KoomBook.
+Connecting the KoomBook to the internet using a WiFi hotspot from a smartphone is strongly discouraged.  Even if you don't expect there to be any important updates, you may quickly use up your 3G data since you can't control what is transmitted to and from the KoomBook.
 
-Dans certaines conditions, si le réseau Internet n'est pas stable, il sera peut être préférable d'attendre la nuit pour lancer des mises à jour (réseau moins saturé, meilleur débit).
+Sometimes, if the internet connection is poor or unstable, you may want to wait until nighttime, when less people are using the internet and there can be a stronger connection, to update the KoomBook
