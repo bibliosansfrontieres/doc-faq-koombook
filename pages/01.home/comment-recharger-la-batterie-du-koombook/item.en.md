@@ -4,7 +4,7 @@ date: '02-05-2018 12:38'
 publish_date: '02-05-2018 12:38'
 taxonomy:
     category:
-        - 'Fonctionnement sur batterie'
+        - 'Battery Operation'
     author:
         - Florian
 ---
