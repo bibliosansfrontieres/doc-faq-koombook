@@ -1,5 +1,5 @@
 ---
-title: 'Comment connaître l''espace disponible sur le KoomBook ?'
+title: 'How can I tell how much space is available on the KoomBook?'
 date: '02-05-2018 12:34'
 publish_date: '02-05-2018 12:34'
 taxonomy:
@@ -13,4 +13,4 @@ taxonomy:
         - Florian
 ---
 
-Il n'est pas possible de connaître l'espace disque disponible sur le KoomBook, seulement sachez que même si ce dernier vient pré-chargé avec des milliers de contenus, nous laissons toujours plusieurs dizaine de giga octet d'espace disque disponible, assez pour votre utilisations quotidienne.
+It is not possible to know how much disk space is available on the KoomBook.   However, know that even though it comes pre-loaded with thousands of content items, we still leave several dozen gigabytes available, which is plenty for daily use.
