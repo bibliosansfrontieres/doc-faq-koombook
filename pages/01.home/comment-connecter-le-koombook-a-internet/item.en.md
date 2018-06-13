@@ -13,11 +13,11 @@ taxonomy:
 
 * Via **Ethernet**
 
-![](ethernet.png)
+
 * Or via **WiFi**.  To connect using WiFi, see "[WiFi management](https://bsf.gitbooks.io/manuel-ideascube/content/fr/gestion_du_wifi.html)" for more information.
 
 
-![](signewifi.png)
+
 
 **We prefer updating using Ethernet**, which is more secure and stable, and has a higher output. 
 
