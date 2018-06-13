@@ -4,7 +4,7 @@ date: '02-05-2018 12:43'
 publish_date: '02-05-2018 12:43'
 taxonomy:
     category:
-        - 'Sécurité informatique'
+        - 'Information Security'
     author:
         - Florian
 ---
