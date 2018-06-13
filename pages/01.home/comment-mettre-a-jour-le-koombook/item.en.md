@@ -11,4 +11,4 @@ taxonomy:
 
 The KoomBook updates automatically once it is connected to the internet.  It does not require any further action on your part.
 
-For more information, you can go to one of the following pages: [How much data does the KoomBook use?](combien-le-koombook-consomme-de-donnees-internet) or [How can I connect the KoomBook to the internet?](comment-connecter-le-koombook-a-internet).
+For more information, you can go to one of the following pages: [How much data does the KoomBook use?](http://faq-koombook.doc.bibliosansfrontieres.org/en/home/combien-le-koombook-consomme-de-donnees-internet) or [How can I connect the KoomBook to the internet?](http://faq-koombook.doc.bibliosansfrontieres.org/en/home/comment-connecter-le-koombook-a-internet).
