@@ -9,7 +9,7 @@ taxonomy:
         - Florian
 ---
 
-The latest generation KoomBook (power button with a white LED light) indicates to the user the status of the update.
+The latest generation KoomBook (power button with a white LED light) indicates an update's status to the user.  
 
 ## Solid LED Light
 **The KoomBook is in the process of turning on, or in the middle of an update**
