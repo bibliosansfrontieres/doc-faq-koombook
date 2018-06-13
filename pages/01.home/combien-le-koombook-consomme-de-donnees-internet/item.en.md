@@ -6,8 +6,8 @@ taxonomy:
     category:
         - Updates
     tag:
-        - consommation
-        - données
+        - Data
+        - Consumption
     author:
         - Florian
 0: 'Combien le KoomBook consomme de données Internet ?'
