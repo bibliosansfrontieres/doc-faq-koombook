@@ -4,7 +4,7 @@ date: '02-05-2018 12:29'
 publish_date: '02-05-2018 10:48'
 taxonomy:
     category:
-        - 'Mise à jour'
+        - Updates
     tag:
         - consommation
         - données
