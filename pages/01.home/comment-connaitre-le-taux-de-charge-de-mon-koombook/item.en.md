@@ -4,10 +4,10 @@ date: '02-05-2018 12:33'
 publish_date: '02-05-2018 12:33'
 taxonomy:
     category:
-        - 'Fonctionnement sur batterie'
+        - 'Battery Operation'
     tag:
-        - batterie
-        - rechargement
+        - Battery
+        - Charging
     author:
         - Florian
 ---
