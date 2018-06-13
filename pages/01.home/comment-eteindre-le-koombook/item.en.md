@@ -23,17 +23,21 @@ It is not possible to turn off the KoomBook directly via the power button.  You 
 Connect to the WiFi from the KoomBook or IdeasBox, and go to whichever address applies: http://koombook.lan or http://ideasbox.lan
 
 Click **login**, which can be found at the top right of the web page.
+
 ![](Capture%20du%202018-01-08%2018-20-26.png)
 
 Once you are signed in, you can select **manage settings** from the options available
+
 ![](Capture%20du%202018-01-08%2018-22-03.png)
 
 Select **restart server**: 
+
 ![](Capture%20du%202018-01-08%2018-22-56.png)
 
 Then select **Stop** to turn off the KoomBook
+
 ![](Capture%20du%202018-01-08%2018-23-12.png)
 
->>>>>**WE DO NOT RECOMMEND** forcing the KoomBook to turn off by pressing the power button.  Doing so may cause irreperable damage to the operating system.  
+**WE DO NOT RECOMMEND** forcing the KoomBook to turn off by pressing the power button.  Doing so may cause irreperable damage to the operating system.  
 
 You will know the KoomBook has shut down once the blue LED light turns off.
