@@ -4,7 +4,7 @@ date: '02-05-2018 12:43'
 publish_date: '02-05-2018 12:43'
 taxonomy:
     category:
-        - Contenus
+        - Content
     author:
         - Florian
 ---
