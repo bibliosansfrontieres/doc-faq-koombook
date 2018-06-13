@@ -4,11 +4,11 @@ date: '02-05-2018 12:34'
 publish_date: '02-05-2018 12:34'
 taxonomy:
     category:
-        - Stockage
+        - Storage
     tag:
-        - 'disque dur'
-        - espace
-        - stockage
+        - 'Hard Drive'
+        - Space
+        - Storage
     author:
         - Florian
 ---
