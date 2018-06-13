@@ -1,5 +1,5 @@
 ---
-title: 'Comment éteindre le KoomBook ? '
+title: 'How do I turn off the KoomBook?'
 date: '02-05-2018 12:36'
 publish_date: '02-05-2018 12:36'
 taxonomy:
@@ -11,30 +11,29 @@ taxonomy:
 
 ![](IMG_3447.JPG)
 
-### Deux versions du KoomBook co-existent actuellement
+### There are two versions of the KoomBook that exist
 
-#### Lumière blanche
+#### For the version with the White LED Light:
 
-Appuyez 3 secondes sur le bouton poussoir pour lancer la procédure d'extinction de l'appareil, ce dernier s'éteint définitivement au bout de quelque secondes. 
+Press the power button for 3 seconds to start the shut down process.  It will take several seconds before the KoomBook completely turns off. 
 
-#### Lumière bleu
-Il n'est pas possible d'éteindre le KoomBook directement via le bouton, il faut pour cela vous rendre dans l'interface web d'aministration d'Ideascube
+#### For the version with the Blue LED Light:
+It is not possible to turn off the KoomBook directly via the power button.  You must instead use the Ideascube administration interface.
 
-Connectez vous au point d'accès wifi du KoomBook/IdeasBox puis à l'adresse http://koombook.lan ou http://ideasbox.lan
+Connect to the WiFi from the KoomBook or IdeasBox, and go to whichever address applies: http://koombook.lan or http://ideasbox.lan
 
-Cliquez sur le lien ci-dessous disponible en haut à droite de la page web
-![](Capture du 2018-01-08 18-20-26.png)
+Click **login**, which can be found at the top right of the web page.
+![](Capture%20du%202018-01-08%2018-20-26.png)
 
-Une fois connecté rendez-vous dans l'interface d'administration
-![](Capture du 2018-01-08 18-22-03.png)
+Once you are signed in, you can select **manage settings** from the options available
+![](Capture%20du%202018-01-08%2018-22-03.png)
 
-Cliquez sur la rubrique correspondante 
-![](Capture du 2018-01-08 18-22-56.png)
+Select **restart server**: 
+![](Capture%20du%202018-01-08%2018-22-56.png)
 
-Puis enfin sur "stop"
-![Capture du 2018-01-08 18-23-12.png)
+Then select **Stop** to turn off the KoomBook
+![](Capture%20du%202018-01-08%2018-23-12.png)
 
-**Il n'est pas recommandé** d'éteindre brutalement l'appareil avec le bouton poussoir, vous pourriez endomager de manière irrémédiable le système d'exploitation de ce dernier.
+>>>>>**WE DO NOT RECOMMEND** forcing the KoomBook to turn off by pressing the power button.  Doing so may cause irreperable damage to the operating system.  
 
-Le KoomBook est complètement arrêté après que la LED bleu se soit éteinte.
-
+You will know the KoomBook has shut down once the blue LED light turns off.
