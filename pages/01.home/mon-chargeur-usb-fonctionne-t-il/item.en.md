@@ -1,5 +1,5 @@
 ---
-title: 'Mon chargeur USB fonctionne t-il ?'
+title: 'Will my USB charger work with the KoomBook?'
 date: '02-05-2018 12:39'
 publish_date: '02-05-2018 12:39'
 taxonomy:
@@ -11,14 +11,14 @@ taxonomy:
 
 ![](PW03053-40.jpg)
 
-[Le chargeur USB \(5V, 2A\)](http://fr.farnell.com/pro-power/mwusb3u-black/alimentation-usb-5v-2-1a-blk-euro/dp/2289559?MER=BN-2289559) fournit avec le KoomBook permet d'alimenter l'appareil de manière optimal.
+[The 5V 2A USB charger](http://fr.farnell.com/pro-power/mwusb3u-black/alimentation-usb-5v-2-1a-blk-euro/dp/2289559?MER=BN-2289559) provided with the KoomBook is optimal for providing power to the device.  
 
-**Vérification du bon fonctionnement du chargeur :**
+**Check that the charger is working properly:**
 
-* [ ] Le chargeur est-il en bon état ?
-* [ ] Les 2 broches sont-elles bien présentes ? 
-* [ ] Une fois branché à une prise, un allo bleu autour du connecteur USB est-il bien présent ?
-* [ ] Branchez un câble USB &lt;-&gt; Micro USB à n'importe quelle appareil fonctionnant à l'aide du prise micro USB \(ex: smartphone, lecteur MP3, etc.\)
+* [ ] Is it in good condition?
+* [ ] Are the two pins in good shape? 
+* [ ] Once plugged into a socket, is there a blue halo around the USB connector?
+* [ ] Test by plugging the USB/micro USB cable into the charger and any device (smartphone, MP3 player, etc...) 
 
-**ATTENTION : Le KoomBook nécessite une alimentation USB de qualité, si vous devez la remplacer, veillez à respecter les recommandations : 5V, 2A. Ne pas brancher le KoomBook au port USB de votre ordinateur.**
+**WARNING: The KoomBook requires a good USB charger.  If you need to replace the one provided, we recomment you get a 5V, 2A one.  Do not plug the KoomBook into your computer's USB port.**
 
