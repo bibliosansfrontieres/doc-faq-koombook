@@ -1,5 +1,5 @@
 ---
-title: 'Peut-on créer de nouveaux paquets de contenus soi-même ?'
+title: 'Can I create new content packs for the KoomBook myself?'
 date: '02-05-2018 12:40'
 publish_date: '02-05-2018 12:40'
 taxonomy:
@@ -9,7 +9,6 @@ taxonomy:
         - Florian
 ---
 
-Aujourd'hui il n'est pas possible de créer soi même des paquets de contenus. 
-En effet, le processus de sélection et de création reste encore complexe et nécessite beaucoup d'opération manuelle. 
+It is not currently possible to create new content packs yourself.  The process of selection and creation is still complex and requires a lot of manual operation.
 
-Il est cependant possible d'ajouter manuellement du contenu (fichier par fichier) dans le media-center d'Ideascube
+It is, however, possible to manually add content (item by item) to the [Ideascube media center](http://ideascube.doc.bibliosansfrontieres.org/en/administrateur/ajout-contenu).
