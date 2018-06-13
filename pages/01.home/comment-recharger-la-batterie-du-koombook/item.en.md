@@ -1,5 +1,5 @@
 ---
-title: 'Comment recharger la batterie du KoomBook ?'
+title: 'How do I recharge the KoomBook''s battery?'
 date: '02-05-2018 12:38'
 publish_date: '02-05-2018 12:38'
 taxonomy:
@@ -9,28 +9,30 @@ taxonomy:
         - Florian
 ---
 
-## Avec le chargeur USB 220/110V -&gt; 5V
+There are several ways to recharge the battery of your KoomBook
 
-Le KoomBook se recharge à l'aide d'un chargeur USB 5V / 2A. Celui fournit avec le KoomBook correspond à cela
+## With a USB 220/110V -&gt; 5V Charger
+
+The KoomBook can be charged by using a USB 5V / 2A charger.  There is one provided with the KoomBook:
 
 ![](PW03053-40.jpg)
 
-Il faut également un câble USB type A vers micro-usb de ce type
+You must also have a USB cable like this one:
 
-![](Capture du 2018-01-09 11-05-45.png)
+![](Capture%20du%202018-01-09%2011-05-45.png)
 
-Il faut ensuite enficher la prise micro-usb à l'arrière du KoomBook \(prise gauche\) dans la prise micro-usb femelle, **ATTENTION** cette dernière à un sens, ne pas trop forcer.
+Put the micro USB into the port on the back of the KoomBook (the port on the left below).  **WARNING** Make sure the USB is oriented correctly.  Don't try to force it into the port.
 
 ![](IMG_3216.JPG)
 
-## Avec le chargeur chargeur USB multiport
+## With the Multiport USB Charger
 
-Le chargeur USB fournit dans les flightcase permet la recharge de multiple appareils simultanément
+The USB charger provided in the flightcase can recharge several devices at once.
 
 ![](serveimage2.jpeg)
 
-Connectez simplement le câble USB sur le chargeur USB et l'autre extrémité sur le KoomBook
+Simply connect the USB cable to the USB charger, and connect the other end to the micro USB port of the KoomBook.
 
-## Avec un panneau solaire et sa batterie
+## With a Solar Panel and its Battery
 
-Référez vous à la page [Le KoomBook peut-il fonctionner à l'aide d'un kit solaire ?](../le-koombook-peut-il-fonctionner-a-laide-dun-kit-solaire) pour plus d'informations
+For more information, see this page: [Can the KoomBook work with a solar kit?](../le-koombook-peut-il-fonctionner-a-laide-dun-kit-solaire) 
