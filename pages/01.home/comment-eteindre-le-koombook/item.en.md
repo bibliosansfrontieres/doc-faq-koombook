@@ -4,7 +4,7 @@ date: '02-05-2018 12:36'
 publish_date: '02-05-2018 12:36'
 taxonomy:
     category:
-        - 'Opération de bases'
+        - 'Basic Operations'
     author:
         - Florian
 ---
