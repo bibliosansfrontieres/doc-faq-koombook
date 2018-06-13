@@ -4,11 +4,11 @@ date: '02-05-2018 12:38'
 publish_date: '02-05-2018 12:38'
 taxonomy:
     category:
-        - 'Kit solaire'
+        - 'Solar Kit'
     tag:
-        - batterie
-        - rechargement
-        - solaire
+        - Solar
+        - Battery
+        - Charging
     author:
         - Florian
 ---
