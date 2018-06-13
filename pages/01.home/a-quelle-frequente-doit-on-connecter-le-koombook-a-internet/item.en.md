@@ -4,7 +4,7 @@ date: '02-05-2018 11:34'
 publish_date: '02-05-2018 11:33'
 taxonomy:
     category:
-        - 'Mise à jour'
+        - Updates
     author:
         - Florian
 ---
