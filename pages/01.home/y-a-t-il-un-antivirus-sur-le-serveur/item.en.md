@@ -1,5 +1,5 @@
 ---
-title: 'Y a t-il un antivirus sur le KoomBook ?'
+title: 'Is there antivirus software on the KoomBook?'
 date: '02-05-2018 12:43'
 publish_date: '02-05-2018 12:43'
 taxonomy:
@@ -9,12 +9,9 @@ taxonomy:
         - Florian
 ---
 
-Aucun antivirus n'est installé sur l'appareil, il y a peu de chance que le système linux soit inffecté par un virus. 
+No antivirus software is installed on the device, as it is unlikely that the linux system would be infected by a virus.
 
-Il faut cependant être vigilent aux fichiers présent dans le médias center. En effet des fichiers proposés par BSF co-existent avec d'autres proposés par des utilisateurs du KoomBook, ces derniers peuvent éventuellement comporter des virus et la vilengence sera donc de mise.
+Nonetheless, it is imortant to be vigilant and pay attention to the documents present in the media center.  The documents suggested by BSF (Libraries Without Borders) co-exist with documents created and proposed by users of the KoomBook.  This second type of document could potentially carry a virus, so stay vigilant.
 
-1. Vérifier le nom du fichier que vous allez lire / utiliser / télécharger
-2. Vérifier que votre ordinateur utilise un anti-virus à jour 
-
-
-
+1. Verify the name of the document that you are going to read/use/download
+2. Verify that your computer has updated anti-virus software
