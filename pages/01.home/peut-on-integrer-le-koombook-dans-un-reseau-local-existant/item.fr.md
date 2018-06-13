@@ -1,5 +1,5 @@
 ---
-title: 'Can I integrate the KoomBook to an existing local network?'
+title: 'Peut-on intégrer le KoomBook dans un réseau local existant ?'
 date: '02-05-2018 12:41'
 publish_date: '02-05-2018 12:41'
 taxonomy:
@@ -9,16 +9,16 @@ taxonomy:
         - Florian
 ---
 
-If the structure receiving the KoomBook has its own local network (either fiber or WiFi) with different devices connected to it, it could be useful to integrate the KoomBook to this system.  This would, in effect, permit any machine in the network to access http://koombook.lan.  
+Si la structure recevant le KoomBook dispose de son propre réseau local (filaire et wifi) avec différents appareils connectés à ce dernier, il peut être intéressant d'intégrer le KoomBook à cet écosystème. Cela permet en effet, à partir de n'importe quelle machine du réseau de joindre le site http://koombook.lan
 
-Unfortunately, it is not that symple.  Each operating system has its own manner of has its own manner of exploring local networks and sorting domain names (http://koombook.lan -> 192.168.0.48) to associate them with local IP addresses.
+Cela n'est malheureusement pas si simple. Chaque système d'exploitation possède sa propre manière d'explorer le réseau local et de résoudre des noms de domaines (http://koombook.lan -> 192.168.0.48) afin de les associer à des adresse IP.
 
-You thus need to make use of a native system.  There is a native system for almost every operating system: 
-* Bonjour for Mac
-* Avahi for Linux 
-* ZeronConf/Bonjour for Windows
-* Android does not have one!
+Il existe donc un système natif pour presque chaque système d'exploitation: 
+* Bonjour pour Mac
+* Avahi pour Linux 
+* ZeronConf/Bonjour pour Windows
+* Android n'en possède aucun !
 
-Android is very popular and used a lot around the world and in projects that we lead.  However, we cannot **easily** integrate the KoomBook into a local network.  You thus need to resort to hiring a qualified technician to help the Android system find devices on the local network through the DNS resolution (remember http://koombook.lan is associated with 192.168.0.48).
+Android est massivement utilisé à travers le monde et dans les projets que nous menons, malgré cela nous ne pourrons pas **facilement** intégrer le KoomBook dans un réseau local. il faudra recourir à l'intervention d'un technicien qualifié pour aider le système Android à trouver facilement grâce à la résolution DNS (Rappel : association de http://koombook.lan à l'adresse 192.168.0.48) des appareils sur le réseau local.
 
-You can find more information about [integration with a local network](https://bsf.gitbooks.io/formation-koombook/content/fr/deploiement_dans_un_reseau_local.html) on GitBook for the KoomBook teaching guide.
+Vous trouverez plus d'informations sur [l'intégration dans un réseau local](https://bsf.gitbooks.io/formation-koombook/content/fr/deploiement_dans_un_reseau_local.html) sur le GitBook du cycle de Formation KoomBook.
