@@ -4,7 +4,7 @@ date: '02-05-2018 12:42'
 publish_date: '02-05-2018 12:42'
 taxonomy:
     category:
-        - wifi
+        - WiFi
     author:
         - Florian
 ---
