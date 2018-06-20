@@ -13,6 +13,6 @@ The distance at which one can access the WiFi varies depending on the environmen
 
 The maximum distance between users and the KoomBook thus varies based on the environment.  For example, if there was a wall between the KoomBook and the user, the range would be different if the wall was made of wood, brick, or reinforced concrete.
 
-For best results, users stay within about 12 meters of the KoomBook (but not too close either).
+For best results, users should stay within about 12 meters of the KoomBook (but not too close either).
 
 If you want to increase the range of the WiFi, the KoomBook can be equipped with an external antenna that can be mounted outside of a building, for example.
