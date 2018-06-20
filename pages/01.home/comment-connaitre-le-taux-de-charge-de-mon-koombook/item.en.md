@@ -23,4 +23,6 @@ Once signed in, go to the homepage and select **manage settings**
 ![](Capture%20du%202018-01-24%2011-14-16.png)
 
 From there, select **Contrôle de la batterie** (check battery)
+
+---
 ![](Capture%20du%202018-01-24%2011-14-27.png)
