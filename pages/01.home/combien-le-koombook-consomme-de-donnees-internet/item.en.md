@@ -13,7 +13,7 @@ taxonomy:
 0: 'Combien le KoomBook consomme de données Internet ?'
 ---
 
-When the KoomBook is connected to the internet with an [Ethernet cable or WiFi](comment-mettre-a-jour-le-koombook), it will search the Bibliothèques Sans Frontières (Libraries Without Borders [file server](https://githu
+When the KoomBook is connected to the internet with an [Ethernet cable or WiFi](comment-mettre-a-jour-le-koombook), it will search the Bibliothèques Sans Frontières (Libraries Without Borders) [file server](https://githu
 b.com/ideascube/ansiblecube/tree/oneUpdateFile) for updates.  If there are any available, they will be applied to the KoomBook.  Possible updates include:
 
 * Updates to software for the Linux operating system, which can vary from a few hundred KB to several dozen MB. 
