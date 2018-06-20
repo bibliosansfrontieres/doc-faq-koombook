@@ -25,7 +25,7 @@ In certain cases, you can use a solar kit made up of a solar panel and battery.
 | How many devices can be charged half way at once? | Theoretically 2 | X |
 | Maximum output from solar panel | 5.5 V | 19 V |
 | Maximum output intensity from solar panel | 2.1 A, but power drops quickly | 3 A |
-| Maximum output from battery back | 5.2 V fully charged | 5.3 V (USB), 20V DC OUT |
+| Maximum output from battery back | 5.2 V fully charged | 5.3 V (USB), 20 V DC OUT |
 | Maximum output intensity from battery | 1.6 A on 1 USB port | 4 A under 20 V |
 
 ### 20 W Solar Kit and its 8 Ah Battery 
