@@ -11,4 +11,4 @@ taxonomy:
 
 The WiFi hotspot currently supports **10 simultaneous connections**.
 
-If you want to significantly increast the capacity of the hotspot, the KoomBook can be equipped with an external antenna that can support several dozen simultaneous users.
+If you want to significantly increase the capacity of the hotspot, the KoomBook can be equipped with an external antenna that can support several dozen simultaneous users.
