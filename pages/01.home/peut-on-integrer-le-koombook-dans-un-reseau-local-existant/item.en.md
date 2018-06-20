@@ -11,7 +11,7 @@ taxonomy:
 
 If the structure receiving the KoomBook has its own local network (either fiber or WiFi) with different devices connected to it, it could be useful to integrate the KoomBook to this system.  This would, in effect, permit any machine in the network to access http://koombook.lan.  
 
-Unfortunately, it is not that symple.  Each operating system has its own manner of has its own manner of exploring local networks and sorting domain names (http://koombook.lan -> 192.168.0.48) to associate them with local IP addresses.
+Unfortunately, it is not that symple.  Each operating system has its own manner of exploring local networks and sorting domain names (http://koombook.lan -> 192.168.0.48) to associate them with local IP addresses.
 
 You thus need to make use of a native system.  There is a native system for almost every operating system: 
 * Bonjour for Mac
