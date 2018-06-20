@@ -14,10 +14,10 @@ Much has been written and said about the KoomBook, from a wide variety of source
 Here is a glimpse of all that exists today:
 
 ### Example of Uses, Overview 
-- https://www.youtube.com/watch?v=2J9ePZGnpA4
-- https://www.youtube.com/watch?v=gjof2gU3qyg
-- https://www.youtube.com/watch?v=lViQy0TXEwc
-- https://www.youtube.com/watch?v=JNSbj-A0WKc
+- [https://www.youtube.com/watch?v=2J9ePZGnpA4](https://www.youtube.com/watch?v=2J9ePZGnpA4)
+- [https://www.youtube.com/watch?v=gjof2gU3qyg](https://www.youtube.com/watch?v=gjof2gU3qyg)
+- [https://www.youtube.com/watch?v=lViQy0TXEwc](https://www.youtube.com/watch?v=lViQy0TXEwc)
+- [https://www.youtube.com/watch?v=JNSbj-A0WKc](https://www.youtube.com/watch?v=JNSbj-A0WKc)
 
 ## Discover the KoomBook
 The beginning of the adventure.  The KoomBook's premise and uses 
