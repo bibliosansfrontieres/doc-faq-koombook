@@ -9,7 +9,7 @@ taxonomy:
         - Florian
 ---
 
-The distance at which one can access the WiFi varies depending on the environment around the KoomBook.  The best case, the range is around 100 meters, but at worst it is only about a dozen.
+The distance at which one can access the WiFi varies depending on the environment around the KoomBook.  In the best case scenario, the range is around 100 meters, but at worst it is only about a dozen.
 
 The maximum distance between users and the KoomBook thus varies based on the environment.  For example, if there was a wall between the KoomBook and the user, the range would be different if the wall was made of wood, brick, or reinforced concrete.
 
