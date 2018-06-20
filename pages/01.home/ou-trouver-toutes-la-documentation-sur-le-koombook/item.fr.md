@@ -18,7 +18,7 @@ Voici donc un recueil de tout ce qui existe à ce jour :
 - [Koombook - lesgoodnews](https://www.youtube.com/watch?v=gjof2gU3qyg)
 - [Utiliser d'autres supports les smartphones et Koombook](https://www.youtube.com/watch?v=lViQy0TXEwc)
 - [Digital Libraries in Coaque (English)](https://www.youtube.com/watch?v=JNSbj-A0WKc)
-- ["Koombook", the digital library of the future](https://www.youtube.com/watch?v=lKFFAwsoCw&feature=youtu.be)
+- ["Koombook", the digital library of the future](https://www.youtube.com/watch?v=_lKFFAwsoCw&feature=youtu.be)
 
 ## Découverte du KoomBook
 Le début de l'aventure, les principes et les usages 
