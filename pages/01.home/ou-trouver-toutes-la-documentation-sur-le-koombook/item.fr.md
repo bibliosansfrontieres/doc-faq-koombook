@@ -18,6 +18,7 @@ Voici donc un recueil de tout ce qui existe à ce jour :
 - https://www.youtube.com/watch?v=gjof2gU3qyg
 - https://www.youtube.com/watch?v=lViQy0TXEwc
 - https://www.youtube.com/watch?v=JNSbj-A0WKc
+- https://www.youtube.com/watch?v=lKFFAwsoCw
 
 ## Découverte du KoomBook
 Le début de l'aventure, les principes et les usages 
@@ -25,15 +26,14 @@ Le début de l'aventure, les principes et les usages
 
 ## Software
 Un petit guide pour prendre en main Ideascube
-* [Manuel d'utilisation d'Ideascube](https://www.gitbook.com/book/bsf/manuel-ideascube)
+* [Manuel d'utilisation d'Ideascube](http://ideascube.doc.bibliosansfrontieres.org/)
 
 Le KoomBook est un ensemble de briques logiciels
-* [Ansiblecube notre outils de déploiement et de mise à jour](https://github.com/ideascube/ansiblecube/tree/oneUpdateFile)
+* [Ansiblecube notre outils de déploiement et de mise à jour](http://ansiblecube.doc.bibliosansfrontieres.org/)
 
 Ideascube est open source est disponible pour tous 
 * [Code source](https://framagit.org/ideascube/ideascube)
 
 ## Hardware 
 Le KoomBook est open source, profitez-en ! 
-* [Assemblage du KoomBook DIY](https://www.gitbook.com/book/bsf/montage-koombook)
-* [Installer et configurer un KoomBook DIY](https://www.gitbook.com/book/bsf/installer-et-configurer-un-koombook/details)
+* [Assemblage du KoomBook DIY](http://assemblage-koombook.doc.bibliosansfrontieres.org/)
