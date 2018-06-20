@@ -34,6 +34,6 @@ Ideascube is open source and available for all
 * [Source code](https://framagit.org/ideascube/ideascube)
 
 ## Hardware 
-Le KoomBook is open source.  Take advantage of it! 
+The KoomBook is open source.  Take advantage of it! 
 * [DIY KoomBook Assembly](https://www.gitbook.com/book/bsf/montage-koombook)
 * [Install and configure the KoomBook yourself](https://www.gitbook.com/book/bsf/installer-et-configurer-un-koombook/details)
