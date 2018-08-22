@@ -15,7 +15,7 @@ taxonomy:
 
 ![](ethernet.png)
 
-* Or via **WiFi**.  To connect using WiFi, see "[WiFi management](https://bsf.gitbooks.io/manuel-ideascube/content/fr/gestion_du_wifi.html)" for more information.
+* Or via **WiFi**.  To connect using WiFi, see "[WiFi management](http://ideascube.doc.bibliosansfrontieres.org/en/administrateur/gestion-wifi)" for more information.
 
 ![](signewifi.png)
 

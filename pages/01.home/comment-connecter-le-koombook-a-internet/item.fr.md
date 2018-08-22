@@ -14,7 +14,7 @@ taxonomy:
 * Via le réseau **Ethernet**
 
 ![](ethernet.png)
-* Via le réseau **wifi** : Voir "[Gestion du wifi](https://bsf.gitbooks.io/manuel-ideascube/content/fr/gestion_du_wifi.html)" pour plus d'informations 
+* Via le réseau **wifi** : Voir "[Gestion du wifi](http://ideascube.doc.bibliosansfrontieres.org/fr/administrateur/gestion-wifi)" pour plus d'informations 
 
 ![](signewifi.png)
 
