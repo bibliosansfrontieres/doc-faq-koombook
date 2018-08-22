@@ -4,7 +4,7 @@ date: '02-05-2018 12:35'
 publish_date: '02-05-2018 12:35'
 taxonomy:
     category:
-        - 'Mise à jour'
+        - 'Configuration réseaux'
     author:
         - Florian
 ---
