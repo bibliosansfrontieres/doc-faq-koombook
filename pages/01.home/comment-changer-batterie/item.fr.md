@@ -14,18 +14,14 @@ Au cours du cycle de vie d'un KoomBook, il est possible que vous ayez à remplac
 ## Ouvrir le boitier de l'appareil
 
 * Retirer les 4 vis présentes sous le boitier à l'aide d'un tournevis cruciforme 
-
-![](20180911_103016.jpg)
-
-![](20180911_103053.jpg)
+![](20180911_103016.jpg?cropResize=600)
+![](20180911_103053.jpg?cropResize=600)
 
 L'intérieur du boitier devrait ressembler à quelque chose comme cela.
 
-
-
 ## Retirer le cable d'extension RJ45
 
-A l'aide d'un tournevis cruciforme, retirer les 2 vis de l'embase RJ45![](20180911_103107.jpg)
+A l'aide d'un tournevis cruciforme, retirer les 2 vis de l'embase RJ45![](20180911_103107.jpg?cropResize=600)
 
 > > > > > Pour plus de facilité vous pouvez également retirer le connecteur RJ45 de la carte mère (plaque rouge).
 
