@@ -26,7 +26,7 @@ A l'aide d'un tournevis cruciforme, retirer les 2 vis de l'embase RJ45
 
 ![](20180911_103107.jpg?cropResize=600)
 
-> > > > > Pour plus de facilité vous pouvez également retirer le connecteur RJ45 de la carte mère (plaque rouge).
+!!! Pour plus de facilité vous pouvez également retirer le connecteur RJ45 de la carte mère (plaque rouge).
 
 Attention, pour retirer ce connecteur vous devrez placer vos doigts comme indiqué sur la photo ci-dessous, index dessous et pouce au dessus. Vous pourrez sentir une petite bosse sur le connecteur où vous devrez appuyer avant de tirer/retirez ce dernier. 
 
@@ -48,16 +48,16 @@ Saisir le fil rouge et noir du câble d'alimentation de la batterie et tirer dou
 
 ![](20180911_103215.jpg?cropResize=600)
 
-> > > > Ne pas enlever les 2 antennes wifi connecter en USB. Si vous devriez le faire, repérez bien l'emplacement des 2 antennes, c'est à dire, sur quel emplacement USB va la première antenne et sur quel emplacement USB va la seconde. Dans le cas où ces dernières serait inversé, le hotspot wifi du KoomBook ne sera plus en mesure de fonctionner.
+!! Ne pas enlever les 2 antennes wifi connecter en USB. Si vous devriez le faire, repérez bien l'emplacement des 2 antennes, c'est à dire, sur quel emplacement USB va la première antenne et sur quel emplacement USB va la seconde. Dans le cas où ces dernières serait inversé, le hotspot wifi du KoomBook ne sera plus en mesure de fonctionner.
 
 ## Retirer la batterie défectueuse 
 
 Placer votre index et votre pouce à l'arrière de la batterie (c'est à dire du côté où se trouve les ouvertures sur le boitier) et soulever doucement afin de la décrocher des bandes velcro.
 
-> > > > > La batterie étant maintenu par des bandes velcro, il se peut que cette dernière soit difficile à retirer. Doucement tirer afin que les 2 bandes velcro se désolidarisent.
+!!! La batterie étant maintenu par des bandes velcro, il se peut que cette dernière soit difficile à retirer. Doucement tirer afin que les 2 bandes velcro se désolidarisent.
 
 
-> > > > Faites attention en retirant la batterie que cette dernière ne vienne pas heurter les 2 antennes wifi connecté en USB à la carte mère.
+!! Faites attention en retirant la batterie que cette dernière ne vienne pas heurter les 2 antennes wifi connecté en USB à la carte mère.
 
 ![](20180911_103236.jpg?cropResize=600)
 
@@ -81,7 +81,7 @@ La batterie est livrée avec 2 bandes velcro collé au dos de cette dernière. A
 
 Insérez la batterie comme présenté dans les photos suivantes.
 
-> > > > > Ne pas oublier de retirer les protections en plastique des bandes velcro
+!! Ne pas oublier de retirer les protections en plastique des bandes velcro
 
 ![](20180911_105817.jpg?cropResize=600)
 
@@ -89,7 +89,7 @@ Insérez la batterie comme présenté dans les photos suivantes.
 
 ![](20180911_105825.jpg?cropResize=600)
 
-> > > > Bien appuyer sur le dessus de la batterie pour que les bandes auto-collantes adhère au plastique
+!!! Bien appuyer sur le dessus de la batterie pour que les bandes auto-collantes adhère au plastique
 
 Retirez la batterie comme vous l'avez fait avec la batterie défectueuse, veillez à ce que les bandes velcro reste bien coller au fond du boitier. Appuyer ensuite sur ces 2 bandes afin de bien les coller
 
@@ -97,7 +97,7 @@ Retirez la batterie comme vous l'avez fait avec la batterie défectueuse, veille
 
 ## Connecter la batterie à la carte mère
 
-> > > > Le connecteur de la batterie possède un détrompeur, il ne s'insére que dans un sens spécifique
+!!! Le connecteur de la batterie possède un détrompeur, il ne s'insére que dans un sens spécifique
 
 ![](20180911_141151.jpg?cropResize=600)
 
