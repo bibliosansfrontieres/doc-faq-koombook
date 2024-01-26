@@ -11,7 +11,8 @@ taxonomy:
 
 ![](IMG_3447.JPG)
 The **power button** located on the front of the KoomBook turns the device on and off.
-* Press twice to turn on
+
+* Press the button two seconds to turn on
 
 ### Two versions of the KoomBook currently exist
 
